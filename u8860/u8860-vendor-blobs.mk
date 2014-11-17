@@ -55,4 +55,12 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8860/proprietary/system/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
 	vendor/huawei/u8860/proprietary/system/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
 	vendor/huawei/u8860/proprietary/system/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
-	vendor/huawei/u8860/proprietary/system/vendor/firmware/bcm4329.hcd:system/vendor/firmware/bcm4329.hcd
+	vendor/huawei/u8860/proprietary/system/vendor/firmware/bcm4329.hcd:system/vendor/firmware/bcm4329.hcd \
+	vendor/huawei/u8860/proprietary/system/lib/libchromatix_mt9e013_ar.so:system/lib/libchromatix_mt9e013_ar.so \
+	vendor/huawei/u8860/proprietary/system/lib/libchromatix_mt9e013_default_video.so:system/lib/libchromatix_mt9e013_default_video.so \
+	vendor/huawei/u8860/proprietary/system/lib/libchromatix_mt9e013_preview.so:system/lib/libchromatix_mt9e013_preview.so \
+	vendor/huawei/u8860/proprietary/system/lib/libchromatix_mt9e013_video_hfr.so:system/lib/libchromatix_mt9e013_video_hfr.so \
+	vendor/huawei/u8860/proprietary/system/lib/libgemini.so:system/lib/libgemini.so \
+	vendor/huawei/u8860/proprietary/system/lib/libmmipl.so:system/lib/libmmipl.so \
+	vendor/huawei/u8860/proprietary/system/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+	vendor/huawei/u8860/proprietary/system/lib/liboemcamera.so:system/lib/liboemcamera.so
