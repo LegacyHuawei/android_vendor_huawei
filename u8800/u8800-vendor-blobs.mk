@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/system/lib/libaudcal.so:system/lib/libaudcal.so \
 	vendor/huawei/u8800/proprietary/system/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
-	vendor/huawei/u8800/proprietary/system/bin/cnd:system/bin/cnd \
 	vendor/huawei/u8800/proprietary/system/bin/netmgrd:system/bin/netmgrd \
 	vendor/huawei/u8800/proprietary/system/bin/qmuxd:system/bin/qmuxd \
 	vendor/huawei/u8800/proprietary/system/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
