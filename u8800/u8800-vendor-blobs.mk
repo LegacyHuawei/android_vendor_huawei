@@ -19,9 +19,7 @@
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/system/lib/libaudcal.so:obj/lib/libaudcal.so \
-	vendor/huawei/u8800/proprietary/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
-	vendor/huawei/u8800/proprietary/system/lib/libnv.so:obj/lib/libnv.so \
-	vendor/huawei/u8800/proprietary/system/lib/liboncrpc.so:obj/lib/liboncrpc.so
+	vendor/huawei/u8800/proprietary/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
 
 PRODUCT_COPY_FILES += \
 	vendor/huawei/u8800/proprietary/system/lib/libaudcal.so:system/lib/libaudcal.so \
