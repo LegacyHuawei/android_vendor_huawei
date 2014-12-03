@@ -24,14 +24,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	vendor/huawei/u8860/proprietary/system/lib/libaudcal.so:system/lib/libaudcal.so \
 	vendor/huawei/u8860/proprietary/system/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
-	vendor/huawei/u8860/proprietary/system/bin/cnd:system/bin/cnd \
 	vendor/huawei/u8860/proprietary/system/bin/netmgrd:system/bin/netmgrd \
 	vendor/huawei/u8860/proprietary/system/bin/qmuxd:system/bin/qmuxd \
 	vendor/huawei/u8860/proprietary/system/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
 	vendor/huawei/u8860/proprietary/system/lib/libauth.so:system/lib/libauth.so \
 	vendor/huawei/u8860/proprietary/system/lib/libcm.so:system/lib/libcm.so \
-	vendor/huawei/u8860/proprietary/system/lib/libcneqmiutils.so:system/lib/libcneqmiutils.so \
-	vendor/huawei/u8860/proprietary/system/lib/libcneutils.so:system/lib/libcneutils.so \
 	vendor/huawei/u8860/proprietary/system/lib/libdiag.so:system/lib/libdiag.so \
 	vendor/huawei/u8860/proprietary/system/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
 	vendor/huawei/u8860/proprietary/system/lib/libdsm.so:system/lib/libdsm.so \
@@ -50,7 +47,6 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/u8860/proprietary/system/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
 	vendor/huawei/u8860/proprietary/system/lib/libwms.so:system/lib/libwms.so \
 	vendor/huawei/u8860/proprietary/system/lib/libwmsts.so:system/lib/libwmsts.so \
-	vendor/huawei/u8860/proprietary/system/lib/libxml.so:system/lib/libxml.so \
 	vendor/huawei/u8860/proprietary/system/bin/modempre:system/bin/modempre \
 	vendor/huawei/u8860/proprietary/system/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
 	vendor/huawei/u8860/proprietary/system/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
