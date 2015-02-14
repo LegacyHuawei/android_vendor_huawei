@@ -48,5 +48,4 @@ PRODUCT_COPY_FILES += \
 	vendor/huawei/msm7x30-common/proprietary/system/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
 	vendor/huawei/msm7x30-common/proprietary/system/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
 	vendor/huawei/msm7x30-common/proprietary/system/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
-	vendor/huawei/msm7x30-common/proprietary/system/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so \
-	vendor/huawei/msm7x30-common/proprietary/system/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so
+	vendor/huawei/msm7x30-common/proprietary/system/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so
