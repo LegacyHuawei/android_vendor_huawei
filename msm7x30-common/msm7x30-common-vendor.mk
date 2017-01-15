@@ -46,3 +46,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x30-common/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
     vendor/huawei/msm7x30-common/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
     vendor/huawei/msm7x30-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so
+PRODUCT_COPY_FILES += \
+    vendor/huawei/msm7x30-common/proprietary/sbin/rmt_storage:recovery/root/sbin/rmt_storage
